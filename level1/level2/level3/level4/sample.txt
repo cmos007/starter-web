@@ -1,0 +1,2 @@
+This is some text in a deeply-nested subfolder of my starter-web project
+The aim of creating this file is to make sure that Git can find files at all levels of the directory tree.
