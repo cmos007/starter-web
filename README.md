@@ -2,11 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-## Notes on Markdown Format
-
-Markdown files are basically glorified text files
-A line starting with a single # is a first-level heading
-Two #'s indicate a second level heading
 
 ## Introduction
 
@@ -14,5 +9,12 @@ Two #'s indicate a second level heading
 
 Sample website with plenty of files for demos
 
+## Deployment
+
 ## How To Contribute
 
+## Notes on Markdown Format
+
+Markdown files are basically glorified text files.
+A line starting with a single # is a first-level heading.
+Two #'s indicate a second level heading.
