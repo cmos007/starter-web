@@ -17,6 +17,7 @@ This is a simple web project. Deployment can be on any web server, or even on th
 ## How to Contribute
 
 Contributions can be made via Patreon or Paypal
+Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
