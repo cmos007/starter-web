@@ -18,3 +18,6 @@ This is a simple web project. Deployment can be on any web server, or even on th
 
 Contributions can be made via Patreon or Paypal
 
+### Copyright
+
+2014 Git.training
