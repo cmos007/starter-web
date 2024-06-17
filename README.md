@@ -12,4 +12,9 @@ Sample website with plenty of files for demos, as referred to above.
 
 ## Deployment
 
+This is a simple web project. Deployment can be on any web server, or even on the local file system.
+
 ## How to Contribute
+
+Contributions can be made via Patreon or Paypal
+
